@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore\\WPFCore.csproj": {}
+    "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore\\WPFCore.csproj": {
+    "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore\\WPFCore.csproj",
+        "projectUniqueName": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore.csproj",
         "projectName": "WPFCore",
-        "projectPath": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore\\WPFCore.csproj",
+        "projectPath": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore.csproj",
         "packagesPath": "C:\\Users\\TOF114\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore\\obj\\",
+        "outputPath": "C:\\Users\\TOF114\\myApp\\WPFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

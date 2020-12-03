@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "inMxzXUtgwMLLC2PnNPUNZ+lHMkZgGU/YCs4PqiqysDntKc9E8RLjnOEErQQtxa7zQFJf7hPXZd/IFc+/TchFg==",
+  "dgSpecHash": "aKWkWWI7kJ3JIJSgSSRchde3nU67r5dhJAiAXA2w61A14ltOf4VZjnZoG+4QxQ9G3IWjqzp9+/WJCHFgcexFBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore\\WPFCore.csproj",
+  "projectFilePath": "C:\\Users\\TOF114\\myApp\\WPFCore\\WPFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TOF114\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\TOF114\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

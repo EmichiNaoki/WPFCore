@@ -22,13 +22,16 @@ namespace WPFCore.Classes
 
         static DBConnection()
         {
-            SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
 
-            var cmncls = new Common();
-            builder.ConnectionString = cmncls.GetConnectionString();
+            var builder = new SqlConnectionStringBuilder()
+            {
+                DataSource = "yosmain.database.windows.net,1433",
+                IntegratedSecurity = false,
+                UserID = "(ユーザー名)",
+                Password = "(パスワード)"
+            };
 
-
-            try
+                try
             {
 
 

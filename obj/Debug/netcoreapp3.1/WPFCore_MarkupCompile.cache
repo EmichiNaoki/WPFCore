@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\TOF114\myApp\WPFCore\WPFCore\obj\Debug\netcoreapp3.1\
+C:\Users\TOF114\myApp\WPFCore\obj\Debug\netcoreapp3.1\
 WPFCore
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\TOF114\myApp\WPFCore\WPFCore\App.xaml
-11151548125
+C:\Users\TOF114\myApp\WPFCore\App.xaml
+3-1793222546
 
-51792087097
+7180377649
 2031345018037
-MainWindow.xaml;
+MainWindow.xaml;Pages\Device\Device.xaml;Pages\Member\Member.xaml;
 
 False
 

@@ -6,9 +6,22 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Compile Update="Pages\Device\Device.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Member\Member.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
   <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Device\Device.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Member\Member.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
